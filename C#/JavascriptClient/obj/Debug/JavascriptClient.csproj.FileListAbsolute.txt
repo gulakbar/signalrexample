@@ -1,0 +1,7 @@
+E:\signalrexample\C#\JavascriptClient\bin\JavascriptClient.dll.config
+E:\signalrexample\C#\JavascriptClient\bin\JavascriptClient.dll
+E:\signalrexample\C#\JavascriptClient\bin\JavascriptClient.pdb
+E:\signalrexample\C#\JavascriptClient\obj\Debug\JavascriptClient.csprojAssemblyReference.cache
+E:\signalrexample\C#\JavascriptClient\obj\Debug\JavascriptClient.csproj.CoreCompileInputs.cache
+E:\signalrexample\C#\JavascriptClient\obj\Debug\JavascriptClient.dll
+E:\signalrexample\C#\JavascriptClient\obj\Debug\JavascriptClient.pdb
